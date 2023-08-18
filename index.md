@@ -13,9 +13,9 @@ humandate: "Aug 23, 2022 - Dec 13, 2022"    # human-readable dates for the works
 humantime: "4:30pm - 5:45 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-08-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-12-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Prof. Paul Dirmeyer", "Dr. Luis Ortiz Uriarte"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Dr. Luis Ortiz"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["pdirmeye@gmu.edu", "lortizur@gmu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["lortizur@gmu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 ---
 
 <h2 id="general">Information </h2>
